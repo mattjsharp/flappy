@@ -6,4 +6,4 @@ I wrote this early on as a learning experience and have left it exactly as it wa
 ![wiring diagram](circuit.png)
 
 ## Example
-![example](example.jpg)
+<img src="example.jpg" alt="example" style="width: 50%; height:50%" />
